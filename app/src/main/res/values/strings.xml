@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPUB Reader</string>
+    <string name="subtitle">Ứng dụng đọc sách điện tử</string>
+    <string name="no_file_selected">Chưa chọn file nào</string>
+    <string name="pick_file">📂 Chọn File EPUB</string>
+    <string name="read_book">📖 Đọc Sách</string>
+    <string name="error_pick_file">Vui lòng chọn file trước!</string>
+    <string name="error_copy_file">Lỗi khi copy file</string>
+</resources>
